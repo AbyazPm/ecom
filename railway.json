@@ -1,0 +1,6 @@
+{
+  "build": {
+    "builder": "railway/php",
+    "phpVersion": "8.2"
+  }
+}
